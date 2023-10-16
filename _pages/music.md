@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /music/
 title: Music
 description: A short recount of my journey as a semi-professional musician.
 nav: true
