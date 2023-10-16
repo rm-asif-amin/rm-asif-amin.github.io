@@ -19,8 +19,9 @@ At some point it became a more serious pursuit and I wanted to tell interesting,
 - I wanted to write songs about science/science fiction themese in Bengali, my mother tongue. Bangla is a challenging language to write heavy metal songs in. Combining science/sci-fi themes turned it up a notch.
 - At this point, I had also  just started pursuing my interest in science through a computer science and engineering degree. It was difficult to balance out 2 technically challenging endeavours.
 
-I managed to persevere and formed a band by convincing some talented musicians about my vision. With my band [Dynamight](https://www.facebook.com/dynamightBD/), I've since played numerous live shows covering songs of my favorite heavy metal bands and released two original tracks.
+I managed to persevere and formed a band by convincing some talented musicians about my vision. With my band [Dynamight](https://www.facebook.com/dynamightBD/), I've since played numerous live shows covering songs of my favorite artists and released two original tracks.
 
+***
 
 ### Starchild
 
