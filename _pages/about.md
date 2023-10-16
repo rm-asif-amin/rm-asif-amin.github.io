@@ -6,7 +6,7 @@ subtitle: ML Engineer | Aspiring Academic Researcher | Guitarist & Songwriter | 
 
 profile:
   align: center
-  image: prof_pic.jpg
+  image: prof_pic_asif.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Me on a memorable late-winter day in Dhaka.</p>
