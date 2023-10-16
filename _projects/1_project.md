@@ -1,17 +1,13 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: CLTV Prediction
+description: Deep Probabilistic Modelling for Customer Lifetime Value Prediction
+img: assets/img/cltv.png
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Used deep probabilistic modelling on customers' past transaction behavior to predict their future lifetime value(ltv). Since most of the customers are rare users, the zero-heavy nature of the distribution posed a challenge. We used a method proposed by Google Research where the ltv is modelled as a 'zero-inflated lognormal' distribution. However, this also caused the highest ltv predictions to explode out of bounds, which I solved by applying gradient clipping and l2 normalization.
 
     ---
     layout: page

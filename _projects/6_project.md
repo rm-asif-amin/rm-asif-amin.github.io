@@ -1,15 +1,17 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
+title: Visual Document Understanding
+description: Visual Document Understanding from Heterogeneous Documents Using Vision Transformers and Transfer Learning
+img: /assets/img/donut.png
+importance: 1
 category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Visual Document Understanding from Heterogeneous Documents Using Vision Transformers and Transfer
+Learning: In a scarce data situation, designed and implemented a document information extraction system by using
+transfer learning and fusing multiple synthetic data generation techniques. Implemented a production inference
+system by combining Docker, FastAPI and NGINX able to ensure optimal GPU usage. This connected a large,
+unbanked section of the population to the financial stream by enabling them to sign up with birth certificates.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 

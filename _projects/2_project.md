@@ -1,17 +1,18 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Graph Representation Learning
+description: Graph Representation Learning from Transaction Graphs to generate embeddings of graph nodes to be used in downstream applications
+img: assets/img/graph.png
 importance: 2
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Used random walk based graph representation learning techniques to generate embeddings of graph nodes to be used in downstream applications (churn prediction, fraud detection etc.).
+	
+Specifically, used implementations of techniques like DeepWalk, node2vec and graphSAGE on large user to user transaction graphs (>1 million nodes). 
+The goal of the project was to incorporate both node features and graph structure into the vector encoding and evaluate these methods empirically to improve downstream models.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+
 
     ---
     layout: page

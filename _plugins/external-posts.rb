@@ -11,7 +11,20 @@ module ExternalPosts
       if site.config['external_sources'] != nil
         site.config['external_sources'].each do |src|
           p "Fetching external posts from #{src['name']}:"
+          p "Fetching external posts from rss url - #{src['rss_url']}:"
+          
           xml = HTTParty.get(src['rss_url']).body
+
+          begin
+            feed = Feedjira.parse(xml)
+          rescue Feedjira::NoParserAvailable => e
+            puts "Error: #{e.message}"
+            puts "XML Content:"
+            puts xml
+            next # Skip this source and continue with the next one
+          end
+
+
           feed = Feedjira.parse(xml)
           feed.entries.each do |e|
             p "...fetching #{e.url}"

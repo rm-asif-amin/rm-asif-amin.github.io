@@ -213,6 +213,17 @@
               {% endif %}
               data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
             {%- endif %}
+            {%- if site.badges.google_scholar_citations_badge %}
+            <span class="__google_scholar_badge_embed__"
+            {% if entry.doi %}
+              data-doi="{{ entry.doi }}"
+            {% else if entry.pmid %}
+              data-pmid="{{ entry.pmid }}"
+            {% else %}
+              data-id="{{ entry.gscholar }}"
+            {% endif %}
+            data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+          {%- endif %}
           </div>
           {%- endif %}
 

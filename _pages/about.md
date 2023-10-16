@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: ML Engineer | Aspiring Academic Researcher | Guitarist & Songwriter | Loves Science-Fiction and Techno-Thrillers ! 
 
 profile:
-  align: right
+  align: center
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Me on a memorable late-winter day in Dhaka.</p>
+    
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +18,20 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I specialize in building ML systems, with a foundation in academic research as a [student researcher](/publications/). I transitioned to the industry after graduating, where I had the opportunity to apply ML at a national scale, for a substantial user base of over 50 million people. My most recent project facilitated safe and reliable access to the financial mainstream for the youth in my nation.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Driven by the goal of bridging the gap between academic research and practical applications, my unique offering is a blend of technical prowess and creative passion. I've found myself often connecting seemingly disparate dots to find elegant, minimal solutions to problems. I combine that passion with compassion towards my peers and believe that my strongest contributions to a group is of the human kind rather than technical.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond technology, I express myself through music as a [guitarist and songwriter](https://open.spotify.com/artist/3w1P2KGncFzCAVqT3hdmt4), drawing inspiration from the intricate worlds of Science-Fiction and Techno-Thrillers.
+  
+<!-- I started out exploring AI and ML in an academic setting as a [student researcher](/publications/). Switched to the industry upon graduation with the prospect of applying ML at a national scale for a [world changing](https://fortune.com/ranking/change-the-world/2017/bkash/) company. Since then, I've designed and implemented ML solutions that caters to 50 million+ people. My most recent project enabled the youth of my nation to be connected to the financial mainstream safely and reliably. 
+
+With aspirations toward continuing academic research, my unique offering is a blend of technical prowess and creative passion. I've found myself often connecting seemingly disparate dots to find elegant, minimal solutions to problems. I also try to combine that passion with compassion towards my peers and facilitate my group in achieving its goals. 
+
+Beyond the realm of technology, I express myself as a [guitarist and songwriter](https://open.spotify.com/artist/3w1P2KGncFzCAVqT3hdmt4), often inspired by the intricate worlds of Science-Fiction and Techno-Thrillers.
+
+I specialize in building ML systems, with a foundation in academic research as a [student researcher](/publications/). I transitioned to the industry after graduating, where I had the opportunity to apply ML at a national scale, benefiting a substantial user base of over 50 million people. My recent project facilitated safe and reliable access to the financial mainstream for the youth in my nation.
+
+My passion lies in bridging the gap between academic research and practical applications. I possess a unique blend of technical expertise and creative problem-solving skills, often finding elegant, minimal solutions by connecting seemingly disparate concepts. I believe in fostering a collaborative and compassionate work environment to help my team achieve its goals.
+
+Beyond technology, I express myself through music as a guitarist and songwriter, drawing inspiration from the intricate worlds of Science-Fiction and Techno-Thrillers. -->

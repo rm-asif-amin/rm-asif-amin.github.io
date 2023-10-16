@@ -113,6 +113,27 @@ blockquote {
 }
 
 // Profile
+.emphasized {
+  color: var(--global-theme-color);
+  //font-style: italic;
+  // font-weight: bold;
+
+}
+
+
+
+.section-header {
+  color: var(--global-theme-color);
+  border-bottom: 1px solid var(--global-footer-text-color);
+  padding-top: 0.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  text-align: left;
+}
+.section-separator {
+  //border-top: 1px solid #0077b6; /* Set your desired separator color and style */
+  margin-top: 10px; /* Adjust the top margin to control spacing */
+}
 
 .profile {
   width: 100%;
@@ -537,6 +558,7 @@ footer.sticky-bottom {
     margin-bottom: 1rem;
     text-align: right;
   }
+  
 }
 
 

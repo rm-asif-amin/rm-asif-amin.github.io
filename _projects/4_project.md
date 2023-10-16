@@ -1,15 +1,13 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Event Time Prediction
+description: An Efective and Accurate Event Time Prediction system using the Survival Analysis framework.
+img:  /assets/img/survival.png
 importance: 3
 category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Developed an effective and accurate Event Time Prediction system using the Survival Analysis framework. Used Deep Learning to predict multiple business-critical metrics( e.g.   first transaction time for new users and loan instalment repayment time) with more than 85% accuracy (based on brier score).
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 

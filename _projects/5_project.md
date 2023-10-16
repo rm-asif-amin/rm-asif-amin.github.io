@@ -1,15 +1,13 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Experiment Lifecycle Management
+description: orchestrated Machine Learning pipelines and tracked experiments with Airflow and MLFlow.
+img: assets/img/mlops.png
 importance: 3
 category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Pipeline Orchestration and Model Lifecycle Management: Used Apache Airflow to orchestrate Machine Learning pipelines and integrated with Hadoop File System. Ensured scheduled execution and continuous monitoring of training/inference of multi-million(usually 30-50 million+) data points. Implemented MLFlow to track model performance metrics and experiment results.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
