@@ -2,8 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Looking back at some of the cooler projects I've done.
-nav: true
+description: Some of the cool projects I've done. For now, clicking on the projects will take you into an abyss 🕳️⚫️🌌
 nav_order: 4
 display_categories: #[work, fun]
 horizontal: false
