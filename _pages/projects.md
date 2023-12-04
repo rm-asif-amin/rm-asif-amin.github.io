@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Some of the projects I've done. #For now, clicking on the projects will take you into an #abyss 🕳️⚫️🌌
+description: Some of the projects I've done. 
 nav: true
 nav_order: 4
 display_categories: #[work, fun]
