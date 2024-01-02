@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-loan project had a soft launch today, it's on national [news](https://www.thedailystar.net/business/economy/banks/news/loans-your-fingertips-2918746)! 📰
+loan project had a soft launch today, it's on national [news](https://www.thedailystar.net/business/economy/banks/news/loans-your-fingertips-2918746).

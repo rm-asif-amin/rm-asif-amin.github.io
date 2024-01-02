@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-POC done for first project involving computer vision- Document Information Extraction. If successful, will allow users to signup with Birth Certificates instead of NIDs. Key Challenges- Birth Certificates not homogenous, are bilingual and only a hundred examples available!
+POC done for first project involving computer vision- Document Information Extraction. Will allow users to signup with Birth Certificates instead of NIDs. Key Challenges- Birth Certificates not homogenous, are bilingual and not enough data.
