@@ -20,9 +20,9 @@ social: true  # includes social icons at the bottom of the page
 
 I specialize in building ML systems, with a foundation in academic research as a [student researcher](/publications/). I transitioned to the industry after graduating, where I had the opportunity to apply ML at a national scale, for a substantial user base of over 50 million people. My most recent project facilitated safe and reliable access to the financial mainstream for the youth in my nation.
 
-Driven by the goal of bridging the gap between academic research and practical applications, my unique offering is a blend of technical prowess and creative passion. I've found myself often connecting seemingly disparate dots to find elegant, minimal solutions to problems. I combine that passion with compassion towards my peers and believe that my strongest contributions to a group is of the human kind rather than technical.
+Driven by the goal of bridging the gap between academic research and practical applications, my unique offering is a blend of technical prowess and creative problem solving. I've found myself often connecting seemingly disparate dots to find elegant, minimal solutions to problems. I combine that with compassion towards my peers and thrive in a group setting.
 
-Beyond technology, I express myself through music as a [guitarist and songwriter](https://open.spotify.com/artist/3w1P2KGncFzCAVqT3hdmt4), drawing inspiration from the intricate worlds of Science-Fiction and Techno-Thrillers.
+Beyond tech, I dabble in music as a [guitarist and songwriter](https://open.spotify.com/artist/3w1P2KGncFzCAVqT3hdmt4), drawing inspiration from the intricate worlds of Science-Fiction and Techno-Thrillers.
   
 <!-- I started out exploring AI and ML in an academic setting as a [student researcher](/publications/). Switched to the industry upon graduation with the prospect of applying ML at a national scale for a [world changing](https://fortune.com/ranking/change-the-world/2017/bkash/) company. Since then, I've designed and implemented ML solutions that caters to 50 million+ people. My most recent project enabled the youth of my nation to be connected to the financial mainstream safely and reliably. 
 
