@@ -7,25 +7,16 @@ nav: true
 nav_order: 5
 ---
 
-### TLDR- Click [here](#starchild) to skip my short musical biography and go directly to original releases-
+### Influences-
 
-Music is a core human expression- from the simplest tunes sung in prehistory to the complex bach compositions sent to [space by NASA](https://voyager.jpl.nasa.gov/golden-record/whats-on-the-record/music/), it allows you to have a better understanding of your own self. At the very least, it offers you some escape from the more prosaic aspects of life.
+My guitar playing is influenced by neo-classical guitarists including Yngwie Malmsteen, Marty Friedman, Jason Becker and Paul Gilbert. Classic Heavy Metal bands like Judas Priest, Iron Maiden, and Scorpions shape my song-writing.
 
-As a child, I found myself admiring beautiful pieces and often over-analyzing them. This fascination led me to pick up the guitar in my late teens in a bid to recreate what I heard.  Eventually I was drawn most to neoclassical guitar music - the intricate melodies of classical music combined with the coolness of an electric guitar! Artists like Yngwie Malmsteen, Marty Friedman, Jason Becker and Paul Gilbert were my guitar heroes growing up. Classic Heavy Metal was a close second with bands like Judas Priest, Iron Maiden, Scorpions etc. also having a big influence on me musically.
-
-At some point it became a more serious pursuit and I wanted to tell interesting, thought-provoking stories through beautiful and technically complex music. But this was an open ended problem with some challenges -
-
-- The style of music was notoriously difficult- with my favorite guitarists frequently mentioning the 10,000 hour rule, which amounts to 6 hours of practice every single day for 5 years.
-- I wanted to write songs about science/science fiction themese in Bengali, my mother tongue. Bangla is a challenging language to write heavy metal songs in. Combining science/sci-fi themes turned it up a notch.
-- At this point, I had also  just started pursuing my interest in science through a computer science and engineering degree. It was difficult to balance out 2 technically challenging endeavours.
-
-I managed to persevere and formed a band by convincing some talented musicians about my vision. With my band [Dynamight](https://www.facebook.com/dynamightBD/), I've since played numerous live shows covering songs of my favorite artists and released two original tracks.
-
+Lyrical themes I explore are inspired from grand Science-Fiction narratives.
 ***
 
 ### Starchild
 
- Starchild is the story of a scout-ship pilot. Faced with an imminent catastrophe on Earth, he soars among the stars, scouring for an alternate habitat for mankind. It's also our latest single where I wrote the song, the lyrics and played guitars.
+ Starchild is the story of a scout-ship pilot. Faced with an imminent catastrophe on Earth, he soars among the stars, scouring for an alternate habitat for mankind. 
 
  Lyrics:
 
@@ -82,7 +73,7 @@ I managed to persevere and formed a band by convincing some talented musicians a
 
 ### Ojeyo Shokti
 
-Ojeyo Shokti(Invincible) was my first attempt at song-writing. Probably the first and only Bengali song narrating a science fiction, it's essentially an alien invasion story- expressing the hopelessness of facing a technologically superior opponent. Lyrics, tune and guitars by me.
+Ojeyo Shokti(Invincible) was my first attempt at song-writing. Probably the first and only Bengali song narrating a science-fiction story, it expresses the hopelessness of facing a technologically superior opponent that's indifferent to your suffering. 
 
 
  Lyrics:
@@ -92,13 +83,6 @@ Ojeyo Shokti(Invincible) was my first attempt at song-writing. Probably the firs
     নিষ্ঠুর আক্রমণ শুরু হল যে সবে, মানুষেরই উপর ব্যাবহৃত হবে  
     হাজার সভ্যতার উপর চালিত এক নিখুঁত ধ্বংসের প্রণালী... 
 
-    I asked chatgpt to translate this part of the 2nd verse and it did a surprisingly good job.  
-    I swear it sounds much less corny in Bengali! :
-
-    Advanced weapons break like toys, our arrogance takes a shattering ploy,
-    In skilled control of capable machines, Earth’s offerings steadily deplete.
-    A cruel assault commences, dark and weathered, upon humans, lessons from conquests endeavored,
-    A strategy of doom, on humanity now tethered, honed through ages, where countless have withered.
 
 
 
