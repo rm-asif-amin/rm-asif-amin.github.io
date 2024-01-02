@@ -2,7 +2,7 @@
 layout: page
 permalink: /music/
 title: Music
-description: A short recount of my journey as a semi-professional musician.
+description: I'm a guitarist and I write songs about the future
 nav: true
 nav_order: 5
 ---
@@ -11,7 +11,7 @@ nav_order: 5
 
 My guitar playing is influenced by neo-classical guitarists including Yngwie Malmsteen, Marty Friedman, Jason Becker and Paul Gilbert. Classic Heavy Metal bands like Judas Priest, Iron Maiden, and Scorpions shape my song-writing.
 
-Lyrical themes I explore are inspired from grand Science-Fiction narratives.
+Lyrical themes I explore are inspired from grand Science-Fiction narratives from authors including H.G. Wells, Arthur C. Clarke, Isaac Asimov, and William Gibson.
 ***
 
 ### Starchild
