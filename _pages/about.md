@@ -9,7 +9,7 @@ profile:
   image: prof_pic_asif.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Me on a memorable late-winter day in Dhaka.</p>
+    <p>Me on a late-winter day in Dhaka.</p>
     
 
 news: true  # includes a list of news items
