@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: ML Engineer | Aspiring Academic Researcher | Guitarist & Songwriter | Loves Science-Fiction and Techno-Thrillers ! 
 
